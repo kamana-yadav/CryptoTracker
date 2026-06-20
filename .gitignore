@@ -1,0 +1,10 @@
+# Sensitive config — password yahan hai, GitHub pe mat jaane do!
+src/main/resources/config.properties
+
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
