@@ -40,14 +40,14 @@ public class Main {
     private static void runConsole(Scanner sc) {
         while (true) {
             System.out.println("\n---- Crypto Tracker ----");
-            System.out.println("1. Portfolio add karo");
-            System.out.println("2. Portfolio dekho");
-            System.out.println("3. Portfolio update karo");
-            System.out.println("4. Portfolio se coin delete karo");
-            System.out.println("5. Crypto price check karo");
-            System.out.println("6. Live price DB mein save karo");
-            System.out.println("7. Price graph dekho");
-            System.out.println("8. Profit/Loss calculate karo");
+            System.out.println("1. Add portfolio");
+            System.out.println("2. View Portfolio");
+            System.out.println("3. Update Portfolio");
+            System.out.println("4. Delete coin from Portfolio");
+            System.out.println("5. Check Crypto price");
+            System.out.println("6. Save Live price in DB");
+            System.out.println("7. View Price graph");
+            System.out.println("8. Calculate Profit/Loss");
             System.out.println("9. Exit");
             System.out.print("Choice: ");
 
